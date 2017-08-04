@@ -1,0 +1,24 @@
+{
+	"name": "ddvphp/ddv-util",
+	"description": "ddv-util php library",
+	"version": "0.0.1",
+	"require": {
+		"php": ">=5.3",
+		"ddvphp/ddv-page": "0.0.*",
+		"ddvphp/ddv-exception": "0.0.*"
+	},
+	"require-dev": {
+	},
+	"autoload": {
+		"psr-4": {
+			"DdvPhp\\": "src/"
+		}
+	},
+	"license": "MIT",
+	"authors": [
+		{
+			"name": "yuchonghua",
+			"email": "yuchonghua@163.com"
+		}
+	]
+}
